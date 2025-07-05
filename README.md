@@ -1,15 +1,15 @@
 <h1 align="center">Hello, I am Kartik Jain</h1>
 <h3 align="center">A passionate Backend Developer and a Cybersecurity Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/KartikJain14/portfolio/)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/KartikJain14/portfolio)
 
-- 👨‍💻 All of my projects are available at [https://jkartik.in/](https://jkartik.in/)
+- 👨‍💻 All of my projects are available at [jkartik.in](https://jkartik.in)
 
-- 📝 I will start writing articles soon on [https://blog.jkartik.in/](https://blog.jkartik.in/)
+- 📝 I will start writing articles soon on [blog.jkartik.in](https://blog.jkartik.in)
 
 - 📫 How to reach me **gh@jkartik.in**
 
-- 📄 Know about my experiences [https://jkartik.in/resume.pdf/](https://jkartik.in/resume.pdf/)
+- 📄 Know about my experiences [https://jkartik.in/resume.pdf](https://jkartik.in/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
