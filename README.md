@@ -5,11 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [jkartik.in](https://jkartik.in)
 
-- 📝 I will start writing articles soon on [blog.jkartik.in](https://blog.jkartik.in)
-
 - 📫 How to reach me **gh@jkartik.in**
 
-- 📄 Know about my experiences [https://jkartik.in/resume.pdf](https://jkartik.in/resume.pdf)
+- 📄 Know about my experiences [https://jkartik.in/resume.pdf](https://jkartik.in/Kartik_Resume.pdf.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
