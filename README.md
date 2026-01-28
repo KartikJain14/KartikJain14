@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gh@jkartik.in**
 
-- 📄 Know about my experiences [https://jkartik.in/resume.pdf](https://jkartik.in/Kartik_Resume.pdf.pdf)
+- 📄 Know about my experiences [Resume](https://jkartik.in/Kartik_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
